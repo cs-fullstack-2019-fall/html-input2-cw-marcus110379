@@ -1,5 +1,6 @@
+Score :5
 # HTML Input 2 CW
-
+#### Correct
 Duplicate the form depicted in the included image. Note the following:
 
 * Use placeholders (hints) where shown
